@@ -1,0 +1,27 @@
+{
+  "name": "webpack-simple-plugin",
+  "version": "1.0.0",
+  "description": "webpack 插件由以下组成：",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mingrutough1/webpack-simple-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mingrutough1/webpack-simple-plugin/issues"
+  },
+  "homepage": "https://github.com/mingrutough1/webpack-simple-plugin#readme",
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5"
+  }
+}
